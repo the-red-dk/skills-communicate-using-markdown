@@ -1,7 +1,3 @@
-```
-git init
-```
-
-``` javascript
-let var = "hello, world!";
-```
+- [] Turn on GitHub Pages
+- [] Outline my Portfolio
+- [] Introduce myself to the world
